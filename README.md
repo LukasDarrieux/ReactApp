@@ -13,17 +13,18 @@ O objetivo principal foi estudar e praticar o desenvolvimento de interfaces com 
 
 # 🛠️ Tecnologias Utilizadas
 
-**Front-end**
-    React JS
+**Front-end** 
+- React JS
+- Bootstrap
 
-**Back-end**
-    .NET 6.0
-    ASP.NET Core API
-    Entity Framework Core
-    Swagger para documentação da API
+**Back-end** 
+- .NET 6.0
+- ASP.NET Core API
+- Entity Framework Core
+- Swagger para documentação da API
 
 **Banco de Dados**
-    MySQL
+- MySQL
 
 
 # 📚 Objetivo do Projeto
