@@ -31,9 +31,6 @@ O objetivo principal foi estudar e praticar o desenvolvimento de interfaces com 
 Este projeto foi desenvolvido como forma de estudo, com foco em:
 
 - Aprender os fundamentos do React JS
-
 - Compreender como integrar um front-end moderno com uma API REST desenvolvida com .NET Core
-
 - Explorar o uso do Entity Framework com MySQL
-
 - Utilizar boas práticas de desenvolvimento full stack
